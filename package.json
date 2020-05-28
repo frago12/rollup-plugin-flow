@@ -28,10 +28,10 @@
     "strip"
   ],
   "dependencies": {
-    "flow-remove-types": "^1.1.0",
-    "rollup-pluginutils": "^1.5.1"
+    "flow-remove-types": "^2.125.1",
+    "rollup-pluginutils": "^2.8.2"
   },
   "devDependencies": {
-    "rollup": "^0.36.0"
+    "rollup": "^2.11.2"
   }
 }
